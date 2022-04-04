@@ -1,0 +1,1 @@
+This project is a XML data processor that makes use of map/reduce computational model. The input is a data set about computer science bibliography [DBLP](https://dblp.org/). The output are different statistics detailed in the Functionality section in HomeworkDescription.md
